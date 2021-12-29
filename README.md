@@ -1,4 +1,4 @@
 # skyroom-record
-Skyroom record tool with FFMPEG.
+Skyroom record tool with FFmpeg.
 # TODO
  - [] Add support for environment variables
